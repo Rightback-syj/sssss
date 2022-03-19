@@ -87,7 +87,7 @@ ${CONFIG.girl_name}可要注意保暖哦~\n`
   description += `
   [ 点我有惊喜 ] ❤️ 🧡 💛 💚 💖`
 
-  const title = `这是我们相识的第 ${dateLength} 天`
+  const title = `今天是认识大哥的第 ${dateLength} 天`
 
   return {
     msgtype: 'textcard',
